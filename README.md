@@ -54,4 +54,4 @@ Start with **Exchange.sol** (the pair contract, analogous to UniswapV2Pair). Fol
 
 - All source code in `src/contracts/mocks` is out of scope (testing only)
 - Fee-on-transfer tokens are NOT supported
-- The math model is documented in the [ElasticSwap Math document](https://github.com/ElasticSwap/elasticswap/blob/develop/ElasticSwapMath.md)
+- The math model is documented in the [ElasticSwap Math document](elasticswap/ElasticSwapMath.md)
